@@ -4,5 +4,6 @@ class Solution:
 
 for i in nums:
   if i in h:
+    return i
     
     
